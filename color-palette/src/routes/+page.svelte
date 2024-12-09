@@ -1,3 +1,14 @@
-<h1>Welcome to your library project</h1>
-<p>Create your package using @sveltejs/package and preview/showcase your work with SvelteKit</p>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+    import SignIn from "$lib/Components/SignIn.svelte";
+	import WelcomeText from "$lib/Components/WelcomeText.svelte";
+    import LoggedOut from "$lib/Components/LoggedOut.svelte";
+
+
+
+</script>
+ <!-- <LoggedOut /> -->
+
+
+ <WelcomeText />
+
+
