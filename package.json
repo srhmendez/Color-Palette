@@ -34,6 +34,7 @@
 	},
 	"devDependencies": {
 		"@eslint/compat": "^1.2.3",
+		"@kinde-oss/kinde-auth-sveltekit": "^2.1.0",
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.9.0",
 		"@sveltejs/package": "^2.0.0",
